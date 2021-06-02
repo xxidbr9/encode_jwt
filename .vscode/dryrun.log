@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/elladev/CODE/GOLANG/encode_jwt'
+make: Leaving directory '/home/elladev/CODE/GOLANG/encode_jwt'
+ 
+make: *** No targets.  Stop.
+ 
